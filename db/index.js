@@ -11,4 +11,3 @@ module.exports = {
     return pool.query(text, params, callback);
   },
 };
-console.log('hello-world');
